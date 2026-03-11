@@ -1,8 +1,62 @@
 {
   "S01E01": ["Left in the Dark", "Get the Message"],
-  "S01E02": ["Snow Way Out", "Loud and Clear"],
-  "S01E03": ["Drive Me Crazy", "The Sweet Spot"],
-  "S01E04": ["The Sweetest Thing", "Playing with Fire"],
-  "S01E05": ["The Price of Admission", "Exes and Ohs"],
-  "S01E06": ["Grilled Cheese", "Sleepless in Lincolnwood"]
+  "S01E02": ["Heavy Meddle", "Making the Case"],
+  "S01E03": ["Driving Miss Hazy", "No Guts, No Glori"],
+  "S01E04": ["The Sweet Spot", "A Tale of Two Tables"],
+  "S01E05": ["Project Loud House", "In Tents Debate"],
+  "S01E06": ["Sound of Silence", "Space Invader"],
+  "S01E07": ["Picture Perfect", "Undie Pressure"],
+  "S01E08": ["Linc or Swim", "Changing the Baby"],
+  "S01E09": ["Overnight Success", "Ties That Bind"],
+  "S01E10": ["Hand‑Me‑Downer", "Sleuth or Consequences"],
+  
+  "S02E01": ["11 Louds a Leapin'", "Intern for the Worse"],
+  "S02E02": ["The Old and the Restless", "Baby Steps"],
+  "S02E03": ["Brawl in the Family", "Suite and Sour"],
+  "S02E04": ["Back in Black", "Making the Grade"],
+  "S02E05": ["Vantastic Voyage", "Patching Things Up"],
+  "S02E06": ["Cheater by the Dozen", ""],
+  
+  "S03E01": ["Tripped!", "White Hare"],
+  "S03E02": ["Insta‑gran", "Roadie to Nowhere"],
+  "S03E03": ["A Fridge Too Far", "Selfie Improvement"],
+  "S03E04": ["No Place Like Homeschool", "City Slickers"],
+  
+  "S04E01": ["Friended! with the Casagrandes", "Power Play with the Casagrandes"],
+  "S04E02": ["Room for Improvement …", "Roll Model with the Casagrandes"],
+  "S04E03": ["No Show with the Casagrandes", "Face the Music …"],
+  "S04E04": ["Pranks for the Memories…", "Store Wars with the Casagrandes"],
+  "S04E05": ["Lucha Fever with the Casagrandes", "Washed Up"],
+
+  "S05E01": ["Schooled!", "The Boss Maybe"],
+  "S05E02": ["Family Bonding", "Strife of the Party"],
+  "S05E03": ["Kernel of Truth", "Ghosted!"],
+  "S05E04": ["Blinded By Science", "Band Together"],
+
+  "S06E01": ["Present Danger", "Stressed for the Part"],
+  "S06E02": ["Don't Escar‑go", "Double Trouble"],
+  "S06E03": ["Flip This Flip", "Haunted House Call"],
+  "S06E04": ["Save Royal Woods!", "Musical Chairs"],
+
+  "S07E01": ["Waking History", "Pranks Fore Nothing"],
+  "S07E02": ["Child’s Play", "Force of Habits"],
+  "S07E03": ["Candy Crushed", "Master of Delusion"],
+  "S07E04": ["Bye Bye Birthday", "Tough Guise"],
+
+  "S08E01": ["Homeward Bound", "Pressure Cooker"],
+  "S08E02": ["Steeling Thunder", "Be Careful What You Fish For"],
+  "S08E03": ["Only Mime Will Tell", "The Winning Spirit"],
+  "S08E04": ["InTODDnito", "Weather or Not"],
+
+  "S09E01": ["Crystal Ballin'", "The Most Dangerous Gamer"],
+  "S09E02": ["Merry Diss-mas", "Just Snow With It"],
+  "S09E03": ["Meet the Purrents", "Apartment Complex"],
+  "S09E04": ["Pet Project", "Cuff Break"],
+  "S09E05": ["Prom‑Com", "Scene Steeler"],
+  "S09E06": ["Rough Patch", "The GLOAT"],
+  
+  "S10E01": ["Summer Camp: The Grate Outdoors", "Summer Camp: Don’t Lose Your Cool"],
+  "S10E02": ["Summer Camp: Treasure Haunt", "Summer Camp: Brawl of the Wild"],
+  "S10E03": ["Spy Dames", "Cupid’s Harrow"],
+  "S10E04": ["Clyde Can't Decide", "Shred of Evidence"]
 }
